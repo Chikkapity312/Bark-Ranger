@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    text-align: center;
+  }
+
+.All-Skills {
+ background-color: #F2CD5C;
+  background-image: url('Images/black-paws-walking-hi.png');
+  background-size: 1000px;
+  padding: 100px;
+  height: 200px;
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  table {
+    margin: 0 auto;
+  }
